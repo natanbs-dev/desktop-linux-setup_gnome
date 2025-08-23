@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# cachyos configuraçã automatizada
+# cachyos configuração automatizada
 
 # 1. Configurar limite de carga da bateria
 echo "Definindo limite de carga da bateria para 80%..."
